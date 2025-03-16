@@ -33,7 +33,7 @@ reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/opti
     <td>系統</td><td>macOS Sequoia 15.3.2 + OpenCore 1.0.5</td>
   </tr>
  <tr>
-    <td>Disable CFG-Lock</td><td>使用GRUBShell setup_var 0x4ed 0x0</td>
+    <td>Disable CFG-Lock</td><td>GRUBShell setup_var 0x4ed 0x0</td>
   </tr>  
  <tr>
     <td>DVMT 64MB</td><td>setup_var 0x795 0x2</td>
