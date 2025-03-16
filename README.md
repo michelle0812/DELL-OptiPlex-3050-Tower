@@ -33,3 +33,11 @@
     <td>DVMT 64MB</td><td>setup_var 0x795 0x2</td>
   </tr>  
 </table>
+
+
+<img width="450" src="https://github.com/user-attachments/assets/68a672a4-dcc8-41b3-96c1-09458cace0df"><br>
+
+
+
+
+
