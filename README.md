@@ -1,5 +1,5 @@
 # Successed:DELL OptiPlex 3050 Tower
-
+reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/optiplex-3050-desktop-tower-owners-manual/%E4%B8%BB%E6%A9%9F%E6%9D%BF%E9%85%8D%E7%BD%AE?guid=guid-41f59f38-621c-4670-b823-4dd9600900e7&lang=zh-hk
 
 <table>
   <tr>
@@ -19,6 +19,12 @@
   </tr>
   <tr>
     <td>Wifi & BT</td><td>BCM943602CDP</td>
+  </tr>
+  <tr>
+    <td>內建網卡</td><td>Realtek RTL8111 LAN 10/100/1000 </td>
+  </tr>
+  <tr>
+    <td>PCIe網卡</td><td>Intel 82571EB Pro/1000 Dual Port</td>
   </tr>
   <tr>  
     <td>硬碟</td><td>美光SATA SSD + ST1000 1TB</td>
