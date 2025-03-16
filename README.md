@@ -1,4 +1,4 @@
-![截圖 2025-03-16 下午2 44 10](https://github.com/user-attachments/assets/a2fa2245-a86b-4a5f-997c-c2c3794f90bb)# Successed:DELL OptiPlex 3050 Tower
+# Successed:DELL OptiPlex 3050 Tower
 
 
 <table>
