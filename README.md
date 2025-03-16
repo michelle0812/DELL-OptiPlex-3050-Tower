@@ -1,4 +1,4 @@
-# Successed:DELL OptiPlex 3050 Tower
+![截圖 2025-03-16 下午2 44 10](https://github.com/user-attachments/assets/a2fa2245-a86b-4a5f-997c-c2c3794f90bb)# Successed:DELL OptiPlex 3050 Tower
 
 
 <table>
@@ -36,6 +36,12 @@
 
 
 <img width="450" src="https://github.com/user-attachments/assets/68a672a4-dcc8-41b3-96c1-09458cace0df"><br>
+
+<img width="450" src="https://github.com/user-attachments/assets/51d626dc-d91f-4ead-b18f-3d3e938285e8"><br>
+<img width="450" src="https://github.com/user-attachments/assets/1cf0ecce-d4dc-4cd3-a603-712f7cecb9e8"><br>
+<img width="450" src="https://github.com/user-attachments/assets/bc8eee3d-4047-4066-b99c-2896cd607b56"><br>
+<img width="450" src="https://github.com/user-attachments/assets/93daf6a6-6b35-4cad-a76e-12512c0aa44d"><br>
+<img width="450" src="https://github.com/user-attachments/assets/9ad18a25-1fac-40e0-a869-1a9eeee43c26"><br>
 
 
 
