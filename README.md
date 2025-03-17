@@ -44,7 +44,7 @@ reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/opti
 <img width="450" src="https://github.com/user-attachments/assets/68a672a4-dcc8-41b3-96c1-09458cace0df"><br>
 
 <img width="450" src="https://github.com/user-attachments/assets/51d626dc-d91f-4ead-b18f-3d3e938285e8"><br>
-<img width="450" src="https://github.com/user-attachments/assets/1b492270-42dd-4cf6-bc22-1599e4496e9f"><br>
+<img width="450" src="https://github.com/user-attachments/assets/57b1ba04-523c-4b02-8e97-307eda99faaf"><br>
 <img width="450" src="https://github.com/user-attachments/assets/bc8eee3d-4047-4066-b99c-2896cd607b56"><br>
 <img width="450" src="https://github.com/user-attachments/assets/93daf6a6-6b35-4cad-a76e-12512c0aa44d"><br>
 <img width="450" src="https://github.com/user-attachments/assets/9ad18a25-1fac-40e0-a869-1a9eeee43c26"><br>
