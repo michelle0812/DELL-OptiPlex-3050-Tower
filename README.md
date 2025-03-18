@@ -24,7 +24,10 @@ reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/opti
     <td>內建網卡</td><td>Realtek RTL8111 LAN 10/100/1000 </td>
   </tr>
   <tr>
-    <td>PCIe網卡</td><td>Intel 82571EB Pro/1000 Dual Port</td>
+    <td>PCIe網卡1</td><td>Intel 82571EB Pro/1000 Dual Port</td>
+  </tr>
+  <tr>
+    <td>PCIe網卡2</td><td>Intel 82572EI Pro/1000 PT Server Adapter</td>
   </tr>
   <tr>  
     <td>硬碟</td><td>美光SATA SSD + ST1000 1TB</td>
