@@ -47,6 +47,11 @@ reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/opti
 <img width="450" src="https://github.com/user-attachments/assets/9ad18a25-1fac-40e0-a869-1a9eeee43c26"><br>
 
 
+<img width="450" alt="截圖 2026-01-20 中午12 33 31" src="https://github.com/user-attachments/assets/649afe43-d7da-4c71-a17d-4c34bf3ddb4d"><br>
+<img width="450" alt="截圖 2026-01-20 中午12 33 53" src="https://github.com/user-attachments/assets/74337fbe-5084-4c84-a1e5-cd1be012fa7f"><br>
+<img width="450" alt="截圖 2026-01-20 中午12 52 54" src="https://github.com/user-attachments/assets/8923de30-f58c-475d-94a8-e2db89951f14"><br>
+<img width="450" lt="截圖 2026-01-20 中午12 52 36" src="https://github.com/user-attachments/assets/1a735ecb-9b1e-4dc0-acd2-593108998239"><br>
+<img width="450" lt="截圖 2026-01-20 中午12 52 20" src="https://github.com/user-attachments/assets/66d36e60-3b51-4d9c-88fb-f0bb19f38a9c"><br>
 
 
 
