@@ -23,17 +23,11 @@ reference: https://www.dell.com/support/manuals/zh-tw/optiplex-3050-desktop/opti
   <tr>
     <td>內建網卡</td><td>Realtek RTL8111 LAN 10/100/1000 </td>
   </tr>
-  <tr>
-    <td>PCIe網卡1</td><td>Intel 82571EB Pro/1000 Dual Port</td>
-  </tr>
-  <tr>
-    <td>PCIe網卡2</td><td>Intel 82572EI Pro/1000 PT Server Adapter</td>
-  </tr>
   <tr>  
     <td>硬碟</td><td>美光SATA SSD + ST1000 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Sequoia 15.3.2 + OpenCore 1.0.5</td>
+    <td>系統</td><td>macOS 26 Tahoe + OpenCore 1.0.7</td>
   </tr>
  <tr>
     <td>Disable CFG-Lock</td><td>GRUBShell setup_var 0x4ed 0x0</td>
